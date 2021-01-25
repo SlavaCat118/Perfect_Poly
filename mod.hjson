@@ -5,4 +5,4 @@ description: "Thank me later"
 version: "1.0"
 minGameVersion: "106.0"
 dependencies: [ ]
-hidden: false
+hidden: true
